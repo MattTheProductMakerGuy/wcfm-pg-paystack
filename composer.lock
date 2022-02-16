@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "35daf7798f21ea2ee67b87aabcc4d104",
+    "content-hash": "7911ff7f28b2b4dddbfcd54d7c47f151",
     "packages": [
         {
             "name": "yabacon/paystack-php",
-            "version": "v2.1.23",
+            "version": "v2.2.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/yabacon/paystack-php.git",
-                "reference": "07dfb0eb02ef0dcbd32cf15cb54e65db9570ec86"
+                "reference": "e22effef1aad23ec9abcef16c3e7be83fe8b47fa"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/yabacon/paystack-php/zipball/07dfb0eb02ef0dcbd32cf15cb54e65db9570ec86",
-                "reference": "07dfb0eb02ef0dcbd32cf15cb54e65db9570ec86",
+                "url": "https://api.github.com/repos/yabacon/paystack-php/zipball/e22effef1aad23ec9abcef16c3e7be83fe8b47fa",
+                "reference": "e22effef1aad23ec9abcef16c3e7be83fe8b47fa",
                 "shasum": ""
             },
             "require-dev": {
@@ -73,7 +73,11 @@
                 "verify",
                 "yabacon"
             ],
-            "time": "2018-05-15T19:24:17+00:00"
+            "support": {
+                "issues": "https://github.com/yabacon/paystack-php/issues",
+                "source": "https://github.com/yabacon/paystack-php/tree/v2.2.0"
+            },
+            "time": "2020-05-04T15:43:09+00:00"
         }
     ],
     "packages-dev": [],
@@ -84,5 +88,5 @@
     "prefer-lowest": false,
     "platform": [],
     "platform-dev": [],
-    "plugin-api-version": "1.1.0"
+    "plugin-api-version": "2.0.0"
 }
