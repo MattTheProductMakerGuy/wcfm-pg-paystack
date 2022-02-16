@@ -1,6 +1,7 @@
 {
     "name": "wpackagist-plugin/wcfm-pg-paystack",
     "type": "library",
+    "version": "1.0.0",
     "require": {
         "yabacon/paystack-php": "^2.2"
     },
